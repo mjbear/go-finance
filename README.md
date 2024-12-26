@@ -1,6 +1,6 @@
 # Testing Go finace packages
 
-## finance-go
+## 1. finance-go
 
 Access to current and historical financial markets data in streamlined, well-formatted structures.
 Link: https://github.com/piquette/finance-go/tree/master
@@ -27,16 +27,16 @@ Market Cap: 2407923
 ...
 ```
 
-## Ticker
+## 2. Ticker
 
-Terminal stock watcher and stock position tracker
+Terminal stock watcher and stock position tracker.
  
 Link: https://github.com/achannarasappa/ticker
 
 ### Example
 
 ```bash
-go run ticker/main.go -w QBTS,OKLO,IBM
+⇨  go run ticker/main.go -w QBTS,OKLO,IBM
 ```
 
 ## Check out
