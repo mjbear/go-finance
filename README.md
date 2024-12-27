@@ -1,8 +1,10 @@
-# Testing Go finace packages
+# Testing Go finance packages
 
 ## 1. finance-go
 
-Access to current and historical financial markets data in streamlined, well-formatted structures.
+Access to current and historical financial markets data in streamlined,
+well-formatted structures.
+
 Link: https://github.com/piquette/finance-go/tree/master
 
 ### Example
@@ -40,4 +42,5 @@ Link: https://github.com/achannarasappa/ticker
 ```
 
 ## Check out
+
 - [Go Awesome Quant](https://github.com/goex-top/awesome-go-quant)
